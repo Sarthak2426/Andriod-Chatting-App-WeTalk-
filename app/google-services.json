@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563260129663",
+    "firebase_url": "https://chat-ed034-default-rtdb.firebaseio.com",
+    "project_id": "chat-ed034",
+    "storage_bucket": "chat-ed034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563260129663:android:5693efac78bab58117da4a",
+        "android_client_info": {
+          "package_name": "com.cometchat.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563260129663-ok74vuq8ml1lojmq5il79jd6vnbrgied.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cometchat.chatapp",
+            "certificate_hash": "80cfb50a35332ce23bcf0a9b6ab0ba508446024a"
+          }
+        },
+        {
+          "client_id": "563260129663-3tp4aj7e2q1vbkeoocurp5h4pur3u1qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGLj5tolTno-Zaa8KCIQFAWkHF6YZ-jXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563260129663-3tp4aj7e2q1vbkeoocurp5h4pur3u1qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
