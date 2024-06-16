@@ -40,7 +40,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/WeTalk.git
+   git [clone https://github.com/yourusername/WeTalk.git](https://github.com/Sarthak2426/Andriod-Chatting-App-WeTalk-.git)
    
    ```
 
