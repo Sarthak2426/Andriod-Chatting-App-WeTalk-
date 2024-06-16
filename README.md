@@ -41,7 +41,7 @@
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/WeTalk.git
-   cd WeTalk
+   
    ```
 
 2. **Open the Project in Android Studio:**
